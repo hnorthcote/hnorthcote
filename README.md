@@ -23,4 +23,9 @@
     * Gatsby
   - Python
     * Django
-    * 
+    * Flask
+  - Databases
+    * MongoDB
+    * SQLite
+    * SQL Express
+    * PosgreSQL
