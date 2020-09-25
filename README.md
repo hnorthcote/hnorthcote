@@ -1,4 +1,4 @@
-### Hi there 👋 I am Henry Northcote, a full stack developer, specializing in JavaScript and Python.
+### Hi there 👋 I am Henry, a full stack developer, specializing in JavaScript and Python.
 ### Welcome to my Github repository!
 
 
