@@ -29,3 +29,15 @@
     * SQLite
     * SQL Express
     * PosgreSQL
+    * MySQL
+    * Flyway
+  - Java
+    * Spring boot
+    * Lombok
+    * Maven
+    * Gradle
+    * Dropwizard
+  - Cloud
+    * AWS
+    * Azure
+    * Google Cloud
