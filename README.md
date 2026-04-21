@@ -20,7 +20,9 @@
     * Node JS
     * Express
     * React
+    * Next JS
     * Gatsby
+    * Remix JS
   - Python
     * Django
     * Flask
